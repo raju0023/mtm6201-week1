@@ -1,0 +1,7 @@
+body {
+    background-color: aquamarine;
+}
+
+.content img {
+    max-width: 600px;
+}
